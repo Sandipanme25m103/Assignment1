@@ -32,7 +32,7 @@ def parse_arguments():
     """
     parser = argparse.ArgumentParser(description='Run inference on test set')
 
-    parser.add_argument("-d",   "--dataset",       type=str,   default="fashion_mnist",
+    parser.add_argument("-d",   "--dataset",       type=str,   default="mnist",
                         choices=["mnist", "fashion_mnist"])
     parser.add_argument("-e",   "--epochs",         type=int,   default=15)
     parser.add_argument("-b",   "--batch_size",     type=int,   default=64)
