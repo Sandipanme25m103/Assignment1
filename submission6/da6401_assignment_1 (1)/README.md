@@ -2,7 +2,7 @@
 
 ## Links
 - **W&B Report**: `<ADD YOUR W&B REPORT LINK HERE>`
-- **GitHub Repository**: `<ADD YOUR GITHUB REPOSITORY LINK HERE>`
+- **GitHub Repository**:(https://github.com/Sandipanme25m103/Assignment1.git)
 
 ---
 
