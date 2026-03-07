@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.13.9",
+  "startedAt":  "2026-03-07T09:44:18.536531Z",
+  "program":  "C:\\Users\\admin\\Downloads\\da6401_assignment_1 (1)\\src\\train.py",
+  "codePath":  "train.py",
+  "codePathLocal":  "train.py",
+  "email":  "me25m103@smail.iitm.ac.in",
+  "root":  "C:\\Users\\admin\\Downloads\\da6401_assignment_1 (1)\\src",
+  "host":  "TheMechGuy",
+  "executable":  "C:\\Users\\admin\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "511312916480",
+      "used":  "239704948736"
+    }
+  },
+  "memory":  {
+    "total":  "16934494208"
+  },
+  "writerId":  "yvu5a2h7edzjnq0nkziqmnh85tfazwag"
+}

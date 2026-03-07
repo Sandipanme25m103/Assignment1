@@ -1,0 +1,21 @@
+Epoch   1/20 | train_loss=0.25487 | train_acc=0.95667 | val_acc=0.94667 | val_f1=0.94591 | 5.37s
+Epoch   2/20 | train_loss=0.10942 | train_acc=0.97544 | val_acc=0.96683 | val_f1=0.96668 | 6.48s
+Epoch   3/20 | train_loss=0.07796 | train_acc=0.98296 | val_acc=0.96933 | val_f1=0.96910 | 6.10s
+Epoch   4/20 | train_loss=0.06285 | train_acc=0.98756 | val_acc=0.97067 | val_f1=0.97056 | 5.21s
+Epoch   5/20 | train_loss=0.04933 | train_acc=0.99017 | val_acc=0.97367 | val_f1=0.97350 | 5.50s
+Traceback (most recent call last):
+  File "C:\Users\admin\Downloads\da6401_assignment_1 (1)\src\train.py", line 253, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\admin\Downloads\da6401_assignment_1 (1)\src\train.py", line 164, in main
+    model.backward(y_batch, logits)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Downloads\da6401_assignment_1 (1)\src\ann\neural_network.py", line 102, in backward
+    delta = layer.backward(delta)
+  File "C:\Users\admin\Downloads\da6401_assignment_1 (1)\src\ann\neural_layer.py", line 73, in backward
+    self.grad_b = np.sum(dz, axis=0, keepdims=True)  # (1, output_size)
+                  ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\numpy\_core\fromnumeric.py", line 2299, in _sum_dispatcher
+    def _sum_dispatcher(a, axis=None, dtype=None, out=None, keepdims=None,
+
+KeyboardInterrupt
