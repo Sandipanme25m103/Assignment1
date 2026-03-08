@@ -1,7 +1,7 @@
 # DA6401 – Assignment 1: Multi-Layer Perceptron for Image Classification
 
 ## Links
-- **W&B Report**: `<ADD YOUR W&B REPORT LINK HERE>`
+- **W&B Report**: (https://wandb.ai/me25m103-/assignment_1/reports/Assignment-1--VmlldzoxNjEzNjA2OQ?accessToken=ea7ossabliq2r3x66lyf1cps7ruou1mjjkf2vngz3c5zdjw2jod5ght72b176bq9)`
 - **GitHub Repository**: https://github.com/Sandipanme25m103/Assignment1.git
 
 ---
